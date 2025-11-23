@@ -54,7 +54,7 @@ python ordinal-logistic-regression.py
 
 
 <p align="center">
-<img width="996" height="547" alt="download (3)" src="https://github.com/user-attachments/assets/49f4a898-2f78-471f-90d7-fcfb21c88d7f" />
+<img width="1854" height="1013" alt="image" src="https://github.com/user-attachments/assets/a3c1c37f-7806-429f-9584-6b18dfa25baa" />
 </p>
 
 
@@ -62,7 +62,7 @@ python ordinal-logistic-regression.py
 
 
 <p align="center">
-<img width="1489" height="790" alt="download (4)" src="https://github.com/user-attachments/assets/c3d360df-7a72-402e-ad35-66a0a37b8a2b" />
+<img width="1855" height="984" alt="image" src="https://github.com/user-attachments/assets/91274b8d-9503-49b7-9637-0ff68e55082e" />
 </p>
 
 
@@ -70,7 +70,7 @@ python ordinal-logistic-regression.py
 
 
 <p align="center">
-<img width="507" height="432" alt="download (5)" src="https://github.com/user-attachments/assets/e24242fa-4bed-43e5-a98f-1470a521750f" />
+<img width="1130" height="953" alt="image" src="https://github.com/user-attachments/assets/df83ba11-42fb-461a-b496-452ffcc41456" />
 </p>
 
 
@@ -78,7 +78,7 @@ python ordinal-logistic-regression.py
 
 
 <p align="center">
-<img width="777" height="470" alt="download (6)" src="https://github.com/user-attachments/assets/96996648-b207-4c72-b110-6f67ebebb474" />
+<img width="1741" height="1039" alt="image" src="https://github.com/user-attachments/assets/9acfd449-8232-4be7-965d-4ef9e329b9df" />
 </p>
 
 
