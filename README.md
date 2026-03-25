@@ -1,4 +1,4 @@
-# Student Performance Prediction (Ordinal Logistic Regression)
+# GradeFlow
 
 ## About
 This project implements an **Ordinal Logistic Regression** model to predict student performance levels (**Low**, **Medium**, **High**) based on various academic and lifestyle factors.  
